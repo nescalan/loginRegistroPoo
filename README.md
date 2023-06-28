@@ -1,2 +1,2 @@
 # loginRegistroPoo
-Sistema de Login y Registro con PHP, MySQL Y Bootstrap usando POO
+ Sistema de Login y Registro con PHP, MySQL y Bootstrap 5 usanto POO
