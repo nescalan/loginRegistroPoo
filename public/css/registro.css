@@ -1,6 +1,13 @@
 body {
-  background: #007bff;
-  background: linear-gradient(to right, #0062e6, #33aeff);
+  background: #2c3e50;
+  /* background-image: linear-gradient(
+    to right top,
+    #051937,
+    #0e223e,
+    #182b44,
+    #21354a,
+    #2c3e50
+  ); */
 }
 
 .card-img-left {

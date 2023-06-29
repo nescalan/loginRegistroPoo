@@ -4,8 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- Latest compiled and minified CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="./public/css/bootstrap.min.css">
     <!-- Local CSS -->
     <link rel="stylesheet" href="./public/css/login.css">
     <title>Login de Usuario</title>
@@ -39,7 +39,7 @@
                                         <button class="btn btn-lg btn-primary btn-login text-uppercase fw-bold mb-2"
                                             type="submit">Entrar</button>
                                         <div class="text-center">
-                                            <a class="small" href="#">Registrate aqui!</a>
+                                            <a class="small" href="registro.php">Registrate aqui!</a>
                                         </div>
                                     </div>
 
